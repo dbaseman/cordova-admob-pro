@@ -116,6 +116,7 @@
                </feature>
           </config-file>
           <source-file src="src/wp8/AdMobPlugin.cs" />
+          <source-file src="src/wp8/AdMobOptions.cs" />
           
           <framework src="src/wp8/GoogleAds.dll" custom="true" />
      </platform>
@@ -131,6 +132,7 @@
                </feature>
           </config-file>
           <source-file src="src/wp8/AdMobPlugin.cs" />
+          <source-file src="src/wp8/AdMobOptions.cs" />
           
           <framework src="src/wp8/GoogleAds.dll" custom="true" />
      </platform>
